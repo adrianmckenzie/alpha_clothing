@@ -8,4 +8,4 @@ Functions: each category has their own page, you can choose which product you wa
 
 # Technologies
 
-- React Router, Redux, React Hooks, Context API, Firebase, Stripe API, GraphQL, Apollo, PWAs, Performance and Design Patterns, Testing with Jest, Enzyme and Snapshot testing, Persistance + Session Storage, State Normalization
+- React Router, Redux, React Hooks, Context API, Firebase, Stripe API, GraphQL, Apollo, PWAs, Performance and Design Patterns, Testing with Jest, Enzyme and Snapshot testing, Persistance + Session Storage, State Normalization, HTML, CSS, ES6/ES7/ES8/ES9/ES10
